@@ -108,7 +108,3 @@ The application is built with **Streamlit**:
 - Adding additional cartoon styles.
 - Improving processing speed for large videos.
 - Extending the application for real-time webcam video processing.
-
----
-
-Feel free to contribute by submitting pull requests or opening issues for new ideas!
